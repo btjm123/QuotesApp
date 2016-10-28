@@ -4,7 +4,7 @@ This is a simple <b>real-world quotes app</b> that serves as a companion to my v
 
 <b>My Youtube channel(BR Studio)</b>: https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw
 
-<b>Video Link</b>: (To be given later)
+<b>Video Link</b>: https://youtu.be/0EX95JpYfDo
 
 # Images (An image is worth a thousand words)
 
